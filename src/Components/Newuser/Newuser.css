@@ -1,0 +1,28 @@
+.Add_user{
+    font-size: 20px;
+    border: none;
+    margin-left: 5px;
+    margin-top: 1rem;
+}
+.box1{
+    /* border: 1px solid blue; */
+    display: flex;
+    flex-direction: column;
+    width: 25vw;
+    height: 28vh;
+
+}
+.cancel{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    width: 10vw;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin-top: 2rem;
+    margin-left: 9rem; 
+    width:7vw;
+    height: 7vh;
+    font-size: 18px;
+}
